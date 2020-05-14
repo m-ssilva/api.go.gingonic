@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DEFAULT",
+    "status": 500,
+    "message": "Ocorreu um erro inesperado"
+  },
+  {
+    "name": "EMAIL_ALREADY_USED",
+    "status": 400,
+    "message": "Esse email já está sendo utilizado"
+  }
+]
